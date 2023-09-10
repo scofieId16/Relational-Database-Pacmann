@@ -27,7 +27,7 @@ Deskripsi lain, seperti warna, jarak yang telah ditempuh, dsb,  boleh ditambahka
 
 ![ERD](https://github.com/scofieId16/Relational-Database-Pacmann/blob/4803d18124c3bf863602a84f6a671d2bb6dd8cf7/ERD/ERD.png)
 
-```
+```SQL
 -- Create SEQUENCE for bid table
 CREATE SEQUENCE bid_bid_id_seq;
 
