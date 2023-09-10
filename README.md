@@ -272,17 +272,35 @@ def import_dummy_dataset(connection, filename, table_name, column_names):
 ```
 ## 4. **Transactional Query**
 
+**Tquery1 :** 
 ![tquery1](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery1.png)
+
+**Tquery2 :** 
 ![tquery2_1](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery2_1.png)
 ![tquery2_2](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery2_2.png)
+
+**Tquery3 :** 
 ![tquery3](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery3.png)
+
+**Tquery4 :** 
 ![tquery4](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery4.png)
+
+**Tquery5 :** 
 ![tquery5](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery5.png)
 
 ## 5. **Analytical Query**
 
+**Aquery1 :** 
 ![aquery1](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery1.png)
+
+**Aquery2 :** 
 ![aquery2](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery2.png)
+
+**Aquery3 :** 
 ![aquery3](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery3.png)
+
+**Aquery4 :** 
 ![aquery4](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery4.png)
+
+**Aquery5 :** 
 ![aquery5](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery5.png)
