@@ -270,4 +270,19 @@ def import_dummy_dataset(connection, filename, table_name, column_names):
 
     print(f"{table_name} data imported successfully!") 
 ```
+## 4. **Transactional Query**
 
+![tquery1](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery1.png)
+![tquery2_1](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery2_1.png)
+![tquery2_2](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery2_2.png)
+![tquery3](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery3.png)
+![tquery4](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery4.png)
+![tquery5](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Transactional%20Query/Tquery5.png)
+
+## 5. **Analytical Query**
+
+![aquery1](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery1.png)
+![aquery2](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery2.png)
+![aquery3](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery3.png)
+![aquery4](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery4.png)
+![aquery5](https://github.com/scofieId16/Relational-Database-Pacmann/blob/ab31e48c033d886ea8919dc9a7a54b5568a38a4a/Query/Analytical%20Query/Aquery5.png)
